@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20ynnij's%20GitHub&fontSize=40&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20maejyomi's%20GitHub&fontSize=40&height=250)
 
 <p align="center">
  ✨💻 웹 개발자를 목표로 공부하고 있습니다! 💻✨
@@ -36,7 +36,7 @@ https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&
 
 <h3 align="center">📊 GitHub Stats 📊 </h3>
 <p align="center"> 
-	<img src="https://github-readme-stats.vercel.app/api?username=ynnij&theme=vue&show_icons=true"/></a>
+	<img src="https://github-readme-stats.vercel.app/api?username=maejyomi&theme=vue&show_icons=true"/></a>
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer)
